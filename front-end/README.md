@@ -26,7 +26,7 @@ New Mars Rovers can be added via a form.
   ### - install the socket.io in my front-end project;
   ### - import the socketIOClient from "socket.io-client;
   ### - connect the front-end to the back-end;
-  ### - implement the effect hook for the data fetching to my App.js file;
+  ### - implement useEffect in my App.js file then fetch all rovers;
   ### - addRover function in order to post data to database;
   
   
